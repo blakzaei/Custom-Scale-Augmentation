@@ -27,8 +27,6 @@ pip install -r requirements.txt
 To utilize the `Custom_Scal_Augmentation` function, follow this example:
 
 ```python
-from your_module import Custom_Scal_Augmentation
-
 Custom_Scal_Augmentation(drone_img_file = drone_img, 
                          background_img_file = background_img, 
                          scale_factor = 0.1,
