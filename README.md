@@ -3,6 +3,10 @@
 
 The "Custom Scale Augmentation" project focuses on implementing a custom scaling technique tailored specifically for drone objects within images. 
 
+![Sample_output_1](images/sample_1.png)
+![Sample_output_2](images/sample_2.png)
+![Sample_output_3](images/sample_3.png)
+
 ## Getting Started
 
 ### Prerequisites
